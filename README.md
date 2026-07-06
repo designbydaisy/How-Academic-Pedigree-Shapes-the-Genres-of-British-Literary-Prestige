@@ -15,7 +15,7 @@ The source bears incredibly high structural integrity because it is peer-reviewe
 ---
 
 ## Data Analysis & Key Findings
-By executing a multi-variable cross-tabulation in Google Sheets that paired `degree_institution` (where an author earned their degree) with `prize_genre` (Fiction, Poetry, or Non-Fiction), the analysis revealed that elite university dominance over British literature is highly stratified depending on what kind of book is being written:
+By executing a multi-variable cross-tabulation in Google Sheets that paired `degree_obtained` (where an author earned their degree) with `prize_institution`, the analysis revealed that elite university dominance over British literature is highly stratified depending on what kind of book is being written:
 
 *   **The Poetry Monarchy:** The ancient institutions of Oxford and Cambridge (Oxbridge) maintain a near-impenetrable blockade around high-prestige poetry. Alumni from these two universities dominate poetry nominations and shortlists over three times more often than graduates from all other UK institutions combined. Poetry prizes remain heavily insular and deeply academic.
 *   **The Fiction Playground:** Contemporary fiction tells a much more competitive story. While Oxford and Cambridge still maintain a baseline lead due to historical privilege, specialized newer institutions—most notably the University of East Anglia (UEA)—radically disrupt the pattern. Thanks to industry-connected creative writing programs, non-Oxbridge schools successfully compete directly with traditional elites in the fiction categories.
