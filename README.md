@@ -15,12 +15,11 @@ The source bears incredibly high structural integrity because it is peer-reviewe
 ---
 
 ## Data Analysis & Key Findings
-By executing a multi-variable cross-tabulation in Google Sheets that paired `degree_obtained` (where an author earned their degree) with `prize_institution`, the analysis revealed that elite university dominance over British literature is highly stratified depending on what kind of book is being written:
 
-*   **The Poetry Monarchy:** The ancient institutions of Oxford and Cambridge (Oxbridge) maintain a near-impenetrable blockade around high-prestige poetry. Alumni from these two universities dominate poetry nominations and shortlists over three times more often than graduates from all other UK institutions combined. Poetry prizes remain heavily insular and deeply academic.
-*   **The Fiction Playground:** Contemporary fiction tells a much more competitive story. While Oxford and Cambridge still maintain a baseline lead due to historical privilege, specialized newer institutions—most notably the University of East Anglia (UEA)—radically disrupt the pattern. Thanks to industry-connected creative writing programs, non-Oxbridge schools successfully compete directly with traditional elites in the fiction categories.
+By executing our data analysis in Google Sheets, focusing on the highest qualifications authors obtained (`highest_degree`) and the specific award bodies (`prize_institution`), a clear pattern of systemic credentialism emerges:
 
-The data proves that publishing industry pipelines are not uniform; the barrier to entry for outside voices is significantly steeper in poetry and non-fiction than it is in mainstream fiction.
+* **The Credential Gate:** Winning or being shortlisted for a major British literary prize is heavily tied to advanced higher education. The data reveals a staggering concentration of Master’s, MFAs, and PhD holders dominating prize shortlists, leaving a small percentage of recognition for authors who hold only an undergraduate degree or alternate educational backgrounds.
+* **The Institutional Filter:** When looking at individual prize institutions, certain awards act as highly selective academic filters. While some broader institutions show a slightly wider spread of backgrounds, high-prestige prizes function predominantly as feeding funnels for individuals with elite postgraduate academic pedigrees.
 
 ---
 
@@ -44,7 +43,7 @@ Nomination counts show the field degree, but winner conversions show who actuall
 ## Methods, Limitations, and Ethical Concerns
 
 ### Analytical Methodology
-Data processing was entirely completed within Google Sheets. The master raw data file was filtered down to isolate author entries containing valid records for both their higher education alma maters and their corresponding prize fields. A custom matrix was constructed to map frequencies of `degree_institution` against `prize_genre` buckets, allowing for macro-level aggregations that separated individual elite institutions from general national trends.
+Data processing was entirely completed within Google Sheets. The master raw data file was filtered down to isolate author entries containing valid records for both their highest achieved degrees and their corresponding prize institutions. A custom cross-tabulation matrix was constructed to map frequencies of `highest_degree` against `prize_institution`, allowing us to track macro-level patterns of institutional credentialism across the top five primary prize ecosystems.
 
 ### Limitations
 While the quantitative findings illustrate a clear overlap between elite university degrees and award recognition, the numbers can only show *what* is happening, not *why*. The data cannot measure the individual, subjective tastes of selection panels, nor can it track the socioeconomic privileges an author possessed before stepping foot onto a university campus.
