@@ -27,15 +27,16 @@ The data proves that publishing industry pipelines are not uniform; the barrier 
 ## Visualizing the Disparity
 
 ### Chart 1: Institutions Footprints by Degree
-This chart demonstrates how specific elite academic tracks act as specialized feeding funnels for specific acquired degrees.<img 
+This chart demonstrates how specific genre prizes act as specialized feeding funnels for specific institutions.<img 
                                                                                                                               width="1240" height="1188" alt="gM04e-prize-s-institution-" src="https://github.com/user-attachments/assets/80e875e5-df11-4ad9-8f79-f52d26d3bdb2" />
 
-*Caption: Pie Chart mapping the total volume of literary prize nominees broken down by degree across leading universities (1990-2022). Data Source: Post45 Data Collective.*
+*Caption: Pie Chart mapping the total volume of literary prize nominees broken down by prize institutions (1990-2022). Data Source: Post45 Data Collective.*
 
 ### Chart 2: The Winner’s Circle by Genre
-Nomination counts show the field, but winner conversions show who actually walks away with the cultural capital.
+Nomination counts show the field degree, but winner conversions show who actually walks away with the cultural capital.
+<img width="1240" height="696" alt="gM04e-highest-obtained-degree-" src="https://github.com/user-attachments/assets/cc21436d-d888-441b-93fa-135971ff8b32" />
 
-*Caption: Grouped column chart comparing actual final prize winners by genre, contrasting elite Oxbridge graduates against all other combined university backgrounds. Data Source: Post45 Data Collective.*
+*Caption: Stacked bar chart comparing actual final prize winners by highest degree, contrasting elite Oxbridge graduates against all other combined university backgrounds. Data Source: Post45 Data Collective.*
 
 ---
 
