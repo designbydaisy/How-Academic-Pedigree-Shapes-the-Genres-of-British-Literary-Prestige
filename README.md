@@ -26,11 +26,12 @@ The data proves that publishing industry pipelines are not uniform; the barrier 
 
 ## Visualizing the Disparity
 
-### Chart 1: Institutions Footprints by Degree
-This chart demonstrates how specific genre prizes act as specialized feeding funnels for specific institutions.<img 
-                                                                                                                              width="1240" height="1188" alt="gM04e-prize-s-institution-" src="https://github.com/user-attachments/assets/80e875e5-df11-4ad9-8f79-f52d26d3bdb2" />
+### Chart 1: The Breakdown of Prize Institutions
+This chart demonstrates the proportion of total literary prestige held by each major award body.
 
-*Caption: Pie Chart mapping the total volume of literary prize nominees broken down by prize institutions (1990-2022). Data Source: Post45 Data Collective.*
+<img width="1240" height="1188" alt="gM04e-prize-s-institution-" src="https://github.com/user-attachments/assets/85c7e079-fa82-49ad-8788-1673ece545dd" />
+
+*Caption: Pie chart mapping the percentage distribution of literary prize nominations across the five primary prize institutions (1990-2022). Data Source: Post45 Data Collective.*
 
 ### Chart 2: The Winner’s Circle by Genre
 Nomination counts show the field degree, but winner conversions show who actually walks away with the cultural capital.
