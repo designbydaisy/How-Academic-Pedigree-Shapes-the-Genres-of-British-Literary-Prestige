@@ -26,11 +26,11 @@ The data proves that publishing industry pipelines are not uniform; the barrier 
 
 ## Visualizing the Disparity
 
-### Chart 1: Genre Footprints by Alma Mater
-This chart demonstrates how specific elite academic tracks act as specialized feeding funnels for specific genres of literary prestige.
+### Chart 1: Institutions Footprints by Degree
+This chart demonstrates how specific elite academic tracks act as specialized feeding funnels for specific acquired degrees.<img 
+                                                                                                                              width="1240" height="1188" alt="gM04e-prize-s-institution-" src="https://github.com/user-attachments/assets/80e875e5-df11-4ad9-8f79-f52d26d3bdb2" />
 
-![Genre Footprints](genre_footprints.png)
-*Caption: Stacked bar chart mapping the total volume of literary prize nominations broken down by genre across leading universities (1990-2022). Data Source: Post45 Data Collective.*
+*Caption: Pie Chart mapping the total volume of literary prize nominees broken down by degree across leading universities (1990-2022). Data Source: Post45 Data Collective.*
 
 ### Chart 2: The Winner’s Circle by Genre
 Nomination counts show the field, but winner conversions show who actually walks away with the cultural capital.
